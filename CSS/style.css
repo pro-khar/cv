@@ -1,0 +1,45 @@
+body{
+    background-color: beige;
+}
+
+hr{
+   height: 0px;
+   border-color: gray;
+   border-style: dotted none none;
+   border-width: 5px;
+   width: 50%;
+}
+p{
+    font-family: 'SF Mono', monospace;
+}
+h1{
+    font-family: 'SF Mono', monospace;
+    font-size: 50px;
+    margin: 1px;
+}
+h2{
+    font-family: 'SF Mono', monospace;
+    margin: 1px;
+}
+
+#top
+{
+    margin: 0px;
+    background-color:rgb(107, 122, 206);
+    color: aliceblue;
+    border-radius: 10px;
+    border-style: dashed;
+}
+#bottom
+{
+    background-color:rgb(107, 122, 206);
+    color: aliceblue;
+    border-radius: 10px;
+    border-style: dashed;
+}
+#profile_image
+{
+    border-radius: 10px;
+    border-style: solid;
+
+}

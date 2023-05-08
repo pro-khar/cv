@@ -45,6 +45,8 @@ h2{
     border-style: solid;
 
 }
-.shadow{
+.profile_image:hover{
     box-shadow: 8px 8px 0px black;
 }
+
+
